@@ -1,2 +1,4 @@
-# script-excel-partkeepr
-This is a simple script to use for include components data on Partkeepr database from a excel workbook
+# worky
+
+## script-excel-partkeepr
+This script inserts component's data on Partkeepr database from a excel workbook
